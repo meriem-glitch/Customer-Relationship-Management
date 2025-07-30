@@ -1,1 +1,1 @@
-gunicorn website.wsgi:application
+gunicorn CRM.wsgi:application
